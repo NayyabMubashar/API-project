@@ -1,0 +1,26 @@
+css
+*{margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  button{
+    text-align: center;
+    padding: 20px;
+    font: 2em sans-serif;
+    border-radius: 50px;
+    border-color: brown;
+    background-attachment: fixed;
+    margin-left: 530px;
+    margin-top: 300px;
+  }
+  div{
+    height: 100vh;
+    
+  }
+  h1{
+    text-align: center;
+    font-size: 39px;
+  }
+
+
